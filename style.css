@@ -28,8 +28,8 @@ body{
     border-radius: 20px;
 }
 .QR__Card {
-    width: 200px;
-    height: 350px;
+    width: 300px;
+    height: 450px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,8 +37,8 @@ body{
 }
 .QR__Card-img img {
     border-radius: 10px;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     margin-bottom: 10px;
 }
 .QR__Card-Title {
